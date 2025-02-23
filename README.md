@@ -41,15 +41,15 @@ I am a tech enthusiast with a strong interest in both hardware and software. Wit
 
 <p align="center">
   <a href="https://github.com/Theyka/Turnstile-Solver">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Theyka&repo=turnstile-solver&theme=radical&show_icons=true&disable_animations=true&show_owner=true" />
+    <img align="center" src="https://github-readme-stats-theyka.vercel.app/api/pin/?username=Theyka&repo=turnstile-solver&theme=radical&show_icons=true&disable_animations=true&show_owner=true" />
   </a>
 </p>
 
 <h2 align="center">My Github Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theyka&show_icons=true&theme=radical&line_height=28">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theyka&layout=donut&theme=radical">
+  <img src="https://github-readme-stats-theyka.vercel.app/api?username=Theyka&show_icons=true&theme=radical&line_height=28">
+  <img src="https://github-readme-stats-theyka.vercel.app/api/top-langs/?username=Theyka&layout=donut&theme=radical&exclude_repo=github-readme-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theyka&theme=radical">
   <img src="https://github-profile-trophy.vercel.app/?username=Theyka&theme=radical&column=4&row=1&margin-w=4">
 </p>
