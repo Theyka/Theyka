@@ -48,6 +48,9 @@ I am a tech enthusiast with a strong interest in both hardware and software. Wit
   <a href="https://github.com/Theyka/Turnstile-Solver">
     <img align="center" src="https://github-readme-stats-theyka.vercel.app/api/pin/?username=Theyka&repo=turnstile-solver&theme=radical&show_icons=true&disable_animations=true&show_owner=true" />
   </a>
+  <a href="https://github.com/Theyka/Torrent-Viewer">
+    <img align="center" src="https://github-readme-stats-theyka.vercel.app/api/pin/?username=Theyka&repo=Torrent-Viewer&theme=radical&show_icons=true&disable_animations=true&show_owner=true" />
+  </a>
 </p>
 
 <h2 align="center">My Github Stats 📊</h2>
