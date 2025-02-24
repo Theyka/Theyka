@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
- <img src="https://badges.pufler.dev/visits/Theyka/Theyka?style=for-the-badge"/> 
- <img src="https://badges.pufler.dev/repos/Theyka?style=for-the-badge"/>
+ <img src="https://img.shields.io/github/followers/Theyka?style=for-the-badge&label=FOLLOWERS&color=red"/>
+ <img src="https://img.shields.io/github/stars/Theyka?style=for-the-badge&color=red">
+ <img src="https://badges.pufler.dev/visits/Theyka/Theyka?style=for-the-badge&color=red"/> 
+ <img src="https://badges.pufler.dev/repos/Theyka?style=for-the-badge&color=red"/>
 </p>
 
 <p align="center">
