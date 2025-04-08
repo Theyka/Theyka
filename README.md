@@ -22,6 +22,9 @@ I am a tech enthusiast with a strong interest in both hardware and software. Wit
   <a href="https://t.me/tlb_sh">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  <a href="https://discordapp.com/users/770607776853524480">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 <h2 align="center">Technology Stack 🚀</h2>
