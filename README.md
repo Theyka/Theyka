@@ -2,12 +2,22 @@
  <img src="https://github.com/Theyka/Theyka/blob/main/images/background.png" />
 </p>
 
-<p align="center">
- <img style="display:inline-block" src="https://img.shields.io/github/followers/Theyka?style=for-the-badge&label=FOLLOWERS&color=red"/>
- <img style="display:inline-block" src="https://img.shields.io/github/stars/Theyka?style=for-the-badge&color=red">
- <img style="display:inline-block" src="https://badges.pufler.dev/visits/Theyka/Theyka?style=for-the-badge&color=red"/> 
- <img style="display:inline-block" src="https://badges.pufler.dev/repos/Theyka?style=for-the-badge&color=red"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/github/followers/Theyka?style=for-the-badge&label=FOLLOWERS&color=red"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/Theyka?style=for-the-badge&color=red">
+    </td>
+    <td>
+      <img src="https://badges.pufler.dev/visits/Theyka/Theyka?style=for-the-badge&color=red"/>
+    </td>
+    <td>
+      <img src="https://badges.pufler.dev/repos/Theyka?style=for-the-badge&color=red"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 I am a tech enthusiast with a strong interest in both hardware and software. With knowledge in Python and Selenium, I develop automation solutions to enhance efficiency and streamline processes. I have hands-on experience in building and repairing computers, as well as managing servers. My passion for self-hosted solutions led me to set up and maintain my own homelab, where I explore virtualization, Linux, and network infrastructure. I thrive on solving technical challenges and continuously expanding my knowledge of emerging technologies.
